@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "alias": "nextjs-template",
-  "name": "nextjs-template",
+  "alias": "nextjs-shawn",
+  "name": "nextjs-shawn",
   "builds": [
     { "src": "next.config.js", "use": "@now/next" }
   ]
