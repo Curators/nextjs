@@ -65,7 +65,7 @@ const IndexPage = () => (
     <Card>
       <Logo src='/static/logo.svg' />
       <ChurchText>新生命小組教會</ChurchText>
-      <NameText>林盛康</NameText>
+      <NameText>ＯＯＯ</NameText>
       <EkkImage src='/static/ekk.svg' />
   </Card>
   </Wrapper>
